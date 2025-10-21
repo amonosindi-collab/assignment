@@ -12,12 +12,4 @@ switch(month){
     console.log("you picked april");
     break;
     case"may":
-    console.log("you picked may");
-    break;
-    case"june":
-    console.log("you picked june");
-    break;
-    default:
-        console.log("my favourite month is not available")
-
-}
+ 
